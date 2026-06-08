@@ -1,0 +1,150 @@
+{
+  "nav": {
+    "what": "What we do",
+    "how": "How we work",
+    "domains": "Domains",
+    "ai": "AI",
+    "contact": "Contact",
+    "cta": "Get in touch"
+  },
+  "hero": {
+    "kicker": "Built end-to-end",
+    "title_pre": "Help your product",
+    "title_hl": "take flight.",
+    "lede": "End-to-end web, mobile, and AI development — from first sketch to App Store.",
+    "cta_primary": "Get in touch",
+    "cta_secondary": "What we do"
+  },
+  "what": {
+    "no": "01",
+    "title": "What we do",
+    "sub": "We build digital products full-cycle — discovery, design, code, ship, support.",
+    "cards": {
+      "web": {
+        "title": "Web",
+        "body": "Front-end and back-end built to scale. Fast pages, real APIs, observability included."
+      },
+      "mobile": {
+        "title": "Mobile",
+        "body": "iOS and Android. Native where it matters, cross-platform where it pays off."
+      },
+      "ai": {
+        "title": "AI",
+        "body": "LLM assistants, RAG over your data, document and image pipelines, recommendations."
+      }
+    }
+  },
+  "how": {
+    "no": "02",
+    "title": "How we work",
+    "sub": "A clear path from idea to live product. No mystery sprints.",
+    "steps": [
+      { "n": "01", "title": "Discovery", "body": "Map the problem, the users, the scope." },
+      { "n": "02", "title": "Prototype", "body": "Clickable mock to test the idea fast." },
+      { "n": "03", "title": "MVP", "body": "Working product in users' hands." },
+      { "n": "04", "title": "Scale", "body": "Performance, infra, observability." },
+      { "n": "05", "title": "Support", "body": "We don't disappear after launch." }
+    ]
+  },
+  "domains": {
+    "no": "03",
+    "title": "Domains we know",
+    "tag": "Years of work behind NDAs · Here's what we know how to build",
+    "ecommerce": {
+      "title": "E-commerce",
+      "intro": "Online stores from catalog to checkout to ops.",
+      "bullets": [
+        "Catalog, cart, checkout, promotions, returns",
+        "Payments (Stripe, Interac), inventory, CRM",
+        "Web storefronts and branded mobile apps",
+        "Headless backends when needed"
+      ],
+      "stack": "React · Flutter · Go · Postgres"
+    },
+    "restaurants": {
+      "title": "Restaurants & POS",
+      "intro": "Point-of-sale and back-of-house.",
+      "bullets": [
+        "Order taking, kitchen display, table layouts",
+        "Payments, split bills, tip handling",
+        "Menu, stock, shift reports",
+        "Tablet/kiosk POS + web back-office"
+      ],
+      "stack": "Flutter · Go · Postgres · Stripe / Interac"
+    },
+    "beauty": {
+      "title": "Beauty",
+      "intro": "Booking and discovery for the beauty industry.",
+      "bullets": [
+        "Client app: search, book, pay",
+        "Pro app: schedules, calendars, client history",
+        "Integrations: calendars, payments, SMS",
+        "Web admin + mobile from one codebase"
+      ],
+      "stack": "Flutter · Go · Postgres · Stripe"
+    },
+    "events": {
+      "title": "Events & Ticketing",
+      "intro": "Digital tickets and on-site flow.",
+      "bullets": [
+        "Ticket sales, refunds, transfers",
+        "QR-based entry, scanner apps, anti-fraud",
+        "Real-time attendance and capacity control",
+        "Organizer dashboards and post-event analytics"
+      ],
+      "stack": "Flutter · Go · Postgres · Redis"
+    },
+    "civic": {
+      "title": "Civic Tech",
+      "intro": "Apps that connect institutions with citizens at scale.",
+      "bullets": [
+        "Multi-module city portals (news, voting, complaints, maps)",
+        "Push, deeplinks, multi-language content",
+        "Admin tooling for non-technical staff",
+        "Heavy reads, open data, accessibility"
+      ],
+      "stack": "Flutter · Go · Postgres · Redis · FCM"
+    }
+  },
+  "ai": {
+    "no": "04",
+    "title": "AI we ship",
+    "lede": "We integrate AI where it earns its keep — not as a buzzword.",
+    "items": [
+      "LLM assistants and chatbots",
+      "Knowledge-base search (RAG)",
+      "Document and image processing",
+      "Recommendation systems"
+    ],
+    "models": "Works with OpenAI · Anthropic · open-source models"
+  },
+  "tech": {
+    "no": "05",
+    "title": "Tech we use",
+    "sub": "The tools we reach for, day in and day out.",
+    "items": ["Flutter", "Go", "React", "Postgres", "Redis", "Docker", "GCP", "AWS"]
+  },
+  "why": {
+    "no": "06",
+    "title": "Why us",
+    "items": [
+      { "n": "01", "title": "Senior hands", "body": "Small team. No juniors learning on your dime." },
+      { "n": "02", "title": "Ship-or-die", "body": "We measure ourselves by what's live, not what's planned." },
+      { "n": "03", "title": "Full-cycle", "body": "Design, code, deploy, support — one team end-to-end." },
+      { "n": "04", "title": "No fog", "body": "Open about NDAs. Open about prices." }
+    ]
+  },
+  "contact": {
+    "title": "Got an idea? Got a deadline? Tell us.",
+    "lede": "We work with founders, growing teams, and ambitious operators across Canada and beyond.",
+    "email": "hello@fledgesys.com",
+    "phone": "+1 780-850-7335",
+    "note": "Open to projects across Canada and beyond"
+  },
+  "footer": {
+    "tagline": "Built end-to-end. Ready to ship.",
+    "copyright": "© 2026 Fledge Systems",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  }
+}

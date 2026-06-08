@@ -1,0 +1,150 @@
+{
+  "nav": {
+    "what": "Ce que nous faisons",
+    "how": "Notre démarche",
+    "domains": "Domaines",
+    "ai": "IA",
+    "contact": "Contact",
+    "cta": "Nous contacter"
+  },
+  "hero": {
+    "kicker": "Conçu de bout en bout",
+    "title_pre": "Aidez votre produit à",
+    "title_hl": "prendre son envol.",
+    "lede": "Développement web, mobile et IA de bout en bout — de la première esquisse à l'App Store.",
+    "cta_primary": "Nous contacter",
+    "cta_secondary": "Ce que nous faisons"
+  },
+  "what": {
+    "no": "01",
+    "title": "Ce que nous faisons",
+    "sub": "Nous construisons des produits numériques de bout en bout — découverte, design, code, livraison, support.",
+    "cards": {
+      "web": {
+        "title": "Web",
+        "body": "Front-end et back-end conçus pour passer à l'échelle. Pages rapides, APIs solides, observabilité incluse."
+      },
+      "mobile": {
+        "title": "Mobile",
+        "body": "iOS et Android. Natif quand c'est nécessaire, multiplateforme quand c'est rentable."
+      },
+      "ai": {
+        "title": "IA",
+        "body": "Assistants LLM, RAG sur vos données, pipelines documents et images, systèmes de recommandation."
+      }
+    }
+  },
+  "how": {
+    "no": "02",
+    "title": "Notre démarche",
+    "sub": "Un chemin clair de l'idée au produit en production. Pas de boîte noire.",
+    "steps": [
+      { "n": "01", "title": "Découverte", "body": "Cadrer le problème, les utilisateurs, le périmètre." },
+      { "n": "02", "title": "Prototype", "body": "Maquette cliquable pour valider l'idée vite." },
+      { "n": "03", "title": "MVP", "body": "Un produit fonctionnel entre les mains des utilisateurs." },
+      { "n": "04", "title": "Mise à l'échelle", "body": "Performance, infra, observabilité." },
+      { "n": "05", "title": "Support", "body": "On ne disparaît pas après le lancement." }
+    ]
+  },
+  "domains": {
+    "no": "03",
+    "title": "Nos domaines",
+    "tag": "Des années de travail sous NDA · Voici ce que nous savons faire",
+    "ecommerce": {
+      "title": "E-commerce",
+      "intro": "Boutiques en ligne, du catalogue au checkout aux opérations.",
+      "bullets": [
+        "Catalogue, panier, checkout, promotions, retours",
+        "Paiements (Stripe, Interac), stocks, CRM",
+        "Vitrines web et applications mobiles de marque",
+        "Backends headless quand nécessaire"
+      ],
+      "stack": "React · Flutter · Go · Postgres"
+    },
+    "restaurants": {
+      "title": "Restaurants & POS",
+      "intro": "Point de vente et back-office pour la restauration.",
+      "bullets": [
+        "Prise de commande, écran cuisine, plans de salle",
+        "Paiements, partage d'addition, pourboires",
+        "Menu, stock, rapports de service",
+        "POS tablette/kiosque + back-office web"
+      ],
+      "stack": "Flutter · Go · Postgres · Stripe / Interac"
+    },
+    "beauty": {
+      "title": "Beauté",
+      "intro": "Réservation et découverte pour l'industrie de la beauté.",
+      "bullets": [
+        "App client : recherche, réservation, paiement",
+        "App pro : agendas, calendriers, historique client",
+        "Intégrations : calendriers, paiements, SMS",
+        "Admin web + mobile à partir d'un même code"
+      ],
+      "stack": "Flutter · Go · Postgres · Stripe"
+    },
+    "events": {
+      "title": "Événementiel & Billetterie",
+      "intro": "Billets numériques et parcours sur site.",
+      "bullets": [
+        "Vente, remboursement et transfert de billets",
+        "Entrée par QR, apps de scan, anti-fraude",
+        "Présence en temps réel et contrôle de capacité",
+        "Tableaux de bord organisateur et analytique post-événement"
+      ],
+      "stack": "Flutter · Go · Postgres · Redis"
+    },
+    "civic": {
+      "title": "Civic Tech",
+      "intro": "Des applications qui relient les institutions et les citoyens à grande échelle.",
+      "bullets": [
+        "Portails multi-modules (actualités, votes, plaintes, cartes)",
+        "Notifications push, deeplinks, contenu multilingue",
+        "Outils d'admin pour des équipes non techniques",
+        "Lecture intensive, données ouvertes, accessibilité"
+      ],
+      "stack": "Flutter · Go · Postgres · Redis · FCM"
+    }
+  },
+  "ai": {
+    "no": "04",
+    "title": "L'IA que nous livrons",
+    "lede": "Nous intégrons l'IA là où elle apporte de la valeur — pas comme un mot à la mode.",
+    "items": [
+      "Assistants et chatbots LLM",
+      "Recherche sur base de connaissances (RAG)",
+      "Traitement de documents et d'images",
+      "Systèmes de recommandation"
+    ],
+    "models": "Compatible OpenAI · Anthropic · modèles open-source"
+  },
+  "tech": {
+    "no": "05",
+    "title": "Notre stack",
+    "sub": "Les outils que nous utilisons au quotidien.",
+    "items": ["Flutter", "Go", "React", "Postgres", "Redis", "Docker", "GCP", "AWS"]
+  },
+  "why": {
+    "no": "06",
+    "title": "Pourquoi nous",
+    "items": [
+      { "n": "01", "title": "Profils seniors", "body": "Petite équipe. Pas de juniors qui apprennent à vos frais." },
+      { "n": "02", "title": "Livrer ou rien", "body": "Nous nous jugeons à ce qui est en ligne, pas à ce qui est prévu." },
+      { "n": "03", "title": "Cycle complet", "body": "Design, code, déploiement, support — une seule équipe de bout en bout." },
+      { "n": "04", "title": "Sans flou", "body": "Clairs sur les NDA. Clairs sur les prix." }
+    ]
+  },
+  "contact": {
+    "title": "Une idée ? Une échéance ? Parlez-nous.",
+    "lede": "Nous travaillons avec des fondateurs, des équipes en croissance et des opérateurs ambitieux au Canada et au-delà.",
+    "email": "hello@fledgesys.com",
+    "phone": "+1 780-850-7335",
+    "note": "Ouverts aux projets au Canada et au-delà"
+  },
+  "footer": {
+    "tagline": "Conçu de bout en bout. Prêt à être livré.",
+    "copyright": "© 2026 Fledge Systems",
+    "privacy": "Confidentialité",
+    "terms": "Conditions"
+  }
+}
